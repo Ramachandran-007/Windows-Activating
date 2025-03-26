@@ -30,10 +30,12 @@ Activate Windows quickly using PowerShell with administrative privileges.
 irm https://get.activated.win | iex
 
 After running, select option [1] from the menu and wait a few seconds. Check activation status in **Settings → Update & Security → Activation**.
+---
 
 ## Method 2: Command Prompt Activation
 Manually activate Windows using Command Prompt with KMS keys and server.
 
+```powershell
 # Step 1: Open CMD as Administrator and install a KMS client key
 slmgr /ipk yourlicensekey
 
