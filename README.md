@@ -17,11 +17,6 @@
 * An active internet connection is required. A VPN is generally not needed. 🌐
 * It is highly recommended to back up your system before proceeding, especially in production environments. 💾
 
-## 📑 Table of Contents
-
-1.  [Method 1: PowerShell Activation](#method-1-powershell-activation) 🚀
-2.  [Method 2: Command Prompt (CMD) Activation](#method-2-command-prompt-cmd-activation) ⌨️
-3.  [Cautions](#cautions) ⚠️
 
 ---
 
