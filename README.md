@@ -65,4 +65,3 @@ Replace `yourlicensekey` with the appropriate key from the following list:
 * Enterprise N: `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` 🏢
 
 * Check the activation status in `Settings -> Update & Security -> Activation`. ✅
-```
