@@ -1,4 +1,3 @@
-```markdown
 # 💻 Windows 10/11 Activation Guide (Unofficial) 🔑
 
 **⚠️ Disclaimer:** This guide provides methods for activating Windows 10 and 11. These methods may bypass Microsoft's official licensing and could potentially violate their terms of service. Use these methods at your own risk. The author is not responsible for any consequences arising from their use. It is strongly recommended to purchase a legitimate Windows license for production environments. This guide is provided for educational purposes or troubleshooting in a virtual machine environment with a valid license.
